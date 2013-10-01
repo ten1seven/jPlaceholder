@@ -1,4 +1,5 @@
-(function($){
+(function($) {
+	
 	$.placeholder = function(el, options) {
 
 		var base = this;
